@@ -1,0 +1,9 @@
+Każdy programista zna sytuację, w której kod przestał działać po „drobnej zmianie”.
+Trzymanie kopii projektu w folderach typu projekt_v2_ostateczny_poprawiony
+szybko kończy się bałaganem. Git to system kontroli wersji: zapisuje historię projektu,
+pozwala wrócić do dowolnej wcześniejszej wersji, sprawdzić kto, kiedy i po co zmienił
+daną linię oraz pracować nad jednym projektem w kilka osób jednocześnie.
+Projekt śledzony przez gita to repozytorium (repo). Repozytorium może istnieć tylko
+lokalnie na naszym komputerze albo mieć także kopię zdalną (remote) w serwisie
+takim jak GitHub czy GitLab. Git to narzędzie, GitHub to serwis hostujący repozytoria –
+to nie to samo.
