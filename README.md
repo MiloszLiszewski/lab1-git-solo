@@ -1,7 +1,7 @@
-# Projekt Beta
+# Projekt Alfa-Beta
 Jedno zdanie opisu.
 
-## Autor
+
 Miłosz
 
 Koniec.
