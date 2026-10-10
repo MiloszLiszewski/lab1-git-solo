@@ -1,4 +1,4 @@
-# Lab 1 – git
+# Lab 1 – git (to tytuł)
 Jedno zdanie opisu.
 
 ## Autor
